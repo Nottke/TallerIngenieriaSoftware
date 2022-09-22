@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'servicioTecnico 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'servicioTecnico 1.0-SNAPSHOT API'
+com.mycompany.serviciotecnico
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/CSV.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/Fecha.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/Menu.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/Orden.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/Producto.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/ProductoDescripcion.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/ProductoVenta.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/Reporte.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/Servicio.java'
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java/com/mycompany/serviciotecnico/servicioTecnico.java'
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\src\main\java = 1632939367735
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\allclasses-index.html = 1636491504685
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\allpackages-index.html = 1636491504688
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\element-list = 1636491504548
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\help-doc.html = 1636491504734
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\index-all.html = 1636491504727
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\index.html = 1636491504729
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\jquery-ui.overrides.css = 1636491504799
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\member-search-index.js = 1636491504707
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\module-search-index.js = 1636491504690
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\overview-tree.html = 1636491504655
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\package-search-index.js = 1636491504704
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\script.js = 1636491504741
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\search.js = 1636491504749
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\stylesheet.css = 1636491504738
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\tag-search-index.js = 1636491504708
+C:\Users\sebas\Documents\NetBeansProjects\servicioTecnico\target\site\apidocs\type-search-index.js = 1636491504705

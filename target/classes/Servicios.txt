@@ -1,0 +1,10 @@
+1,Servicio de restablecimiento equipo,10000
+2,Servicio de restablecimiento equipo con guardado sistema,15000
+3,Servicio de limpieza general,7000
+4,Servicio de limpieza y refrigeracion,12000
+5,Servicio de reparacion dispositivo smarthphone android,9000
+6,Servicio de reparacion dispositivo smarthphone mac,15000
+7,Servicio de mantenimiento,5000
+8,Servicio de cambio de ventilador,5500
+9,Servicio de cambio de pantalla,20000
+10,Servicio de formateo para sistema LINUX,15990

@@ -1,0 +1,2 @@
+Subtotal 1 Sun Dec 05 10:53:38 CLST 2021 Rut: 123123123 Precio: 25000
+Subtotal 2 Sun Dec 05 10:54:33 CLST 2021 Rut: 151234348 Precio: 60500

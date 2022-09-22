@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sebas/Documents/NetBeansProjects/servicioTecnico/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'servicioTecnico 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'servicioTecnico 1.0-SNAPSHOT API'
